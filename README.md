@@ -51,7 +51,7 @@ You can find my professional platforms here:
 <img src= "https://img.shields.io/badge/ResearchGate--informational?style=social&logo=researchgate&logoColor=748e54?&color=748e54" />
 </a>
 
-<a href= "www.linkedin.com/in/indigo-tran">
+<a href= "https://www.linkedin.com/in/indigo-tran/">
 <img src= "https://img.shields.io/badge/LinkedIn--informational?style=social&logo=linkedin&logoColor=blue&color=748e54" />
 </a>
 
