@@ -2,13 +2,14 @@
 
 My name is Indigo Tran <a href="https://orcid.org/0000-0001-9788-8875">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
-</a> (they/them). I'm from Vietnam and currently living in Springfield, MO. I'm working on my M.Sc. in Biology.
+</a> (they/them). I'm currently based out of Springfield, MO, and focusing on advocating for outdoor, place-based environmental education for my work.
 
 ***
 
 ### Research interest
+* Environmental education literacy
 * Plant ecology
-* Ecotoxicology / metal and nanoparticles
+* Ecotoxicology/metal and nanoparticles
   - Metal leaching and movement within and beyond aquatic systems
 * Wetland and aquatic ecology
   - 🌿🌱Aquatic botany
@@ -26,7 +27,7 @@ My name is Indigo Tran <a href="https://orcid.org/0000-0001-9788-8875">
 
 
 ### 📭 Contact
-Best way to reach me is via [email](mailto:trangtran.indigo@gmail.com). I'm also on social media, though I'm not the most active outside confence season.
+The best way to reach me is via [email](mailto:trangtran.indigo@gmail.com). I'm also on social media, though I'm not the most active outside conference season.
 
 You can find my professional platforms here:
 
