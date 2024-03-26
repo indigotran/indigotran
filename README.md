@@ -2,12 +2,13 @@
 
 My name is Indigo Tran <a href="https://orcid.org/0000-0001-9788-8875">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
-</a> (they/them). I'm currently based out of Springfield, MO, and focusing on advocating for outdoor, place-based environmental education for my work.
+</a> (they/them). I'm based out of Missouri, and focusing on advocating for outdoor, place-based environmental education for my work.
 
 ***
 
 ### Research interest
 * Environmental education literacy
+* Equity and access to environmental education/STEAM in K-12 and Higher Ed
 * Plant ecology
 * Ecotoxicology/metal and nanoparticles
   - Metal leaching and movement within and beyond aquatic systems
